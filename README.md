@@ -6,6 +6,13 @@ This Power BI project explores and analyzes sales performance data from the fict
 > 🎯 This project aims to demonstrate strong BI development skills by creating an executive-level dashboard that turns raw data into actionable business insights.
 
 ---
+![Image](https://github.com/user-attachments/assets/4e1e3852-691f-4af3-b06b-b667b5b13900)
+
+![Image](https://github.com/user-attachments/assets/861096cf-cff3-4259-8a79-293e963d33c7)
+
+![Image](https://github.com/user-attachments/assets/70e5ced2-5cbf-4f28-b0d6-65490dcd8239)
+
+![Image](https://github.com/user-attachments/assets/1b27400c-371e-4f5e-8d81-eac406efb60e)
 
 ## 🧠 Project Objectives
 
